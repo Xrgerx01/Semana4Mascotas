@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="cantidad_raiting">5</string>
+    <string name="nombre_mascota">Punker</string>
+    <string name="content_description">image</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca_de">Acerca De</string>
+    <string name="menu_star">5 Stars</string>
+    <string name="acerca_de">Nombre: Lucas Trinidad \n\nEdad: 22 \n\nPoder: Dormir parado en el Omnibus \n\nPasatiempo: Hacer justicia contra aquellas personas que ponen Ketchup a sus Pizzas.\n\nPais: Paraguay.
+    </string>
+    <string name="contacto_nombre">Nombre</string>
+    <string name="contacto_correo">Correo</string>
+    <string name="contacto_mensaje">Mensaje</string>
+    <string name="contacto_boton">Enviar Comentario</string>
+    <string name="contacto_ems">15</string>
+    <string name="respuesta_mensaje">Mensaje Enviado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
